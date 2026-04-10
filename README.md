@@ -61,13 +61,13 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
 
-##**Start Backend**
+## **Start Backend**
 cd server
 npm start
 
-##**Start Frontend**
+## **Start Frontend**
 cd client
 npm start
 
-##🎥 Demo Video
+## 🎥 Demo Video
 https://youtu.be/HVeM8WwcsYM?si=7vXB7xgplZ641SOc
