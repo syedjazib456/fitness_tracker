@@ -47,7 +47,7 @@ A full-stack Fitness Tracker application built using the MERN stack (MongoDB, Ex
 ## ⚙️ Installation & Setup
 
 ## 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/yourusername/fitness-tracker.git
 
 cd server
